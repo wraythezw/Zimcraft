@@ -1,0 +1,53 @@
+#==============================O==============================#
+# I---------------------------------------------------------I #
+# |          Pet Master 1.4 configuration - Readme          | #
+# 1---------------------------------------------------------1 #
+#==============================o==============================#
+
+# Remember: ownership information is not displayed if you are the owner of the pet!
+# For horses, it is recommended that the player right-clicks on the horse while sneaking.
+# Only spaces, no tabs. To check your file, use: yaml-online-parser.appspot.com
+# Default config.yml file: github.com/PyvesB/PetMaster/blob/master/src/main/resources/config.yml
+# Visit the GitHub for some additional documentation: github.com/PyvesB/PetMaster
+
+#=============================O=O=============================#
+# II-------------------------------------------------------II #
+# |                    General  settings                    | #
+# 2---------------------------------------------------------2 #
+#=============================o=o=============================#
+  
+# Enable or disable chat messages when right-clicking on a pet.
+chatMessage: true
+
+# Enable or disable hologram messages when right-clicking on a pet (requires Holographic Displays).
+hologramMessage: true
+
+# Duration of the hologram, in server ticks (20 ticks = 1 second).
+hologramDuration: 50
+
+# Check for update on plugin launch and notify when an OP joins the game.
+checkForUpdate: true
+
+# Name of the language file.
+languageFileName: 'lang.yml'
+
+# Price of the /petm setowner command (requires Vault).
+changeOwnerPrice: 0
+
+# Take dogs into account.
+displayDog: true
+
+# Take cats into account.
+displayCat: true
+
+# Take horses into account.
+displayHorse: true
+
+# Take llamas into account.
+displayLlama: true
+
+#=============================OOO=============================#
+# III-----------------------------------------------------III #
+# |         Parameters to appear in future versions         | #
+# 3---------------------------------------------------------3 #
+#=============================ooo=============================#

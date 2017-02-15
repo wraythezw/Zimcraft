@@ -1,0 +1,15 @@
+{
+  "group": "default",
+  "location": {
+    "world": "ZeSpawn",
+    "x": -1541.2352162044479,
+    "y": 109.0,
+    "z": 662.2900497390057,
+    "yaw": -273.4499,
+    "pitch": 1.950003
+  },
+  "operator": true,
+  "can-fly": true,
+  "walk-speed": 0.19999202,
+  "fly-speed": 0.19999202
+}

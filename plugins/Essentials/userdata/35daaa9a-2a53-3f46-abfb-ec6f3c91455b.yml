@@ -1,0 +1,22 @@
+geolocation: Zimbabwe
+lastAccountName: RoboNinja317
+timestamps:
+  login: 1487098227244
+  logout: 1487099096908
+  lastteleport: 1487088942266
+ipAddress: 169.239.25.250
+lastlocation:
+  world: world
+  x: 181.42063050792964
+  y: 84.0
+  z: 697.7960275397563
+  yaw: 140.60367
+  pitch: -43.349937
+money: '884.76'
+logoutlocation:
+  world: world
+  x: 190.92882444599957
+  y: 89.98733369160507
+  z: 688.58221859355
+  yaw: -207.44672
+  pitch: 19.800028

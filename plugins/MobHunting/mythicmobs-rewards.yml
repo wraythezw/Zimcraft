@@ -1,0 +1,36 @@
+# This a extra MobHunting config data for the MythicMobs on your server.
+SkeletalKnight:
+  plugin: MythicMobs
+  mobName: §2Skeletal Knight
+  rewardPrize: '10'
+  consoleRunCommand: minecraft:give {player} iron_sword 1
+  rewardDescription: You got an Iron sword.
+  chance: 1.0
+SkeletalMinion:
+  plugin: MythicMobs
+  mobName: §2Skeletal Minion
+  rewardPrize: '10'
+  consoleRunCommand: minecraft:give {player} iron_sword 1
+  rewardDescription: You got an Iron sword.
+  chance: 1.0
+SkeletonKing:
+  plugin: MythicMobs
+  mobName: §6Skeleton King
+  rewardPrize: '10'
+  consoleRunCommand: minecraft:give {player} iron_sword 1
+  rewardDescription: You got an Iron sword.
+  chance: 1.0
+StaticallyChargedSheep:
+  plugin: MythicMobs
+  mobName: §bStatically Charged Sheep
+  rewardPrize: '10'
+  consoleRunCommand: minecraft:give {player} iron_sword 1
+  rewardDescription: You got an Iron sword.
+  chance: 1.0
+AngrySludge:
+  plugin: MythicMobs
+  mobName: Angry Sludge
+  rewardPrize: '10'
+  consoleRunCommand: minecraft:give {player} iron_sword 1
+  rewardDescription: You got an Iron sword.
+  chance: 1.0

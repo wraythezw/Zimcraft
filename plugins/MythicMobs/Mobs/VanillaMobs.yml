@@ -1,0 +1,31 @@
+# 
+# This example file shows you how to change default values for 
+# vanilla mobs. Most MythicMobs options will work here, including
+# skills and effects! **Despawn: FALSE does not work, though.**
+CAVE_SPIDER:
+  Health: 30
+  Damage: 7
+WITHER_SKELETON:
+  Health: 50
+  Damage: 10
+GIANT:
+  Health: 1000
+  Damage: 20
+  Skills:
+  - potion{type=POISON;duration=100;lvl=1} @target ~onAttack
+ZOMBIE:
+  Health: 200
+  Damage: 20
+  Armor: 5
+  Chance: 1
+  Priority: 100
+  SpawnMethod: replace
+  Options:
+   MovementSpeed: 0.25
+    FollowRange: 130
+    Silent: true
+  Skills:
+  - jump{v=1} ~onTimer:140
+  Equipment:
+  - awesome_boss_helmet:4
+  - diamond_sword:0

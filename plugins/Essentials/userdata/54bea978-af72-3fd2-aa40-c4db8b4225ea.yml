@@ -1,0 +1,22 @@
+geolocation: N/A
+lastAccountName: Wraythe
+timestamps:
+  login: 1487113148474
+  lastteleport: 1487108899144
+  logout: 1487113210040
+ipAddress: 197.211.209.78
+lastlocation:
+  world: ZeSpawn
+  x: -1521.3822324837313
+  y: 117.7737321256896
+  z: 683.2986981086281
+  yaw: -268.3493
+  pitch: 64.0499
+logoutlocation:
+  world: ZeSpawn
+  x: -1522.5961860153616
+  y: 110.5
+  z: 687.5005049180277
+  yaw: -4.6495194
+  pitch: 44.40041
+afk: false

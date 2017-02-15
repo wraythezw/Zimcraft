@@ -1,0 +1,12 @@
+portals:
+  hub_Bregentved:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Wraythe
+    location: -1525.0,108.0,716.0:-1520.0,113.0,716.0
+    world: ZeSpawn
+    destination: Bregentved

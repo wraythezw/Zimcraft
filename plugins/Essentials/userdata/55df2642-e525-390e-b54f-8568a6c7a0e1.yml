@@ -1,0 +1,22 @@
+geolocation: Latvia
+lastAccountName: Epiwssa
+timestamps:
+  login: 1487109395842
+  logout: 1487109535666
+  lastteleport: 1487109417396
+ipAddress: 81.198.103.102
+lastlocation:
+  world: Bregentved
+  x: 63.5
+  y: 70.0
+  z: 262.5
+  yaw: 77.25
+  pitch: 6.45
+logoutlocation:
+  world: ZeSpawn
+  x: -1541.2352162044479
+  y: 109.0
+  z: 662.2900497390057
+  yaw: -273.4499
+  pitch: 1.950003
+money: '538.0'

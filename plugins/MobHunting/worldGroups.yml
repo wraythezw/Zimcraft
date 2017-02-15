@@ -1,0 +1,17 @@
+# ----------------------------------------------------------
+# WorldGroups. New world are added in the Default Group
+# ----------------------------------------------------------
+# These worldgroups arer only use for Player Bounties. An
+# bounty created in one worldgroup can not be claimed in
+# another worldgroup. This is to make sure that economies
+# are not mixed.
+WorldGroups:
+  WorldGroups:
+    DefaultGroup:
+    - world
+    - world_nether
+    - world_the_end
+    CreativeGroup:
+    - creative
+    SurvivalGroup:
+    - survival

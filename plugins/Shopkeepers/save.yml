@@ -1,0 +1,136 @@
+'1':
+  uniqueId: 90369ff7-dd37-49dd-b3a7-2926000ac3ef
+  name: Rare Item Trader
+  world: ZeSpawn
+  x: -1535
+  y: 108
+  z: 707
+  type: admin
+  object: villager
+  uuid: d8ae52ba-07f8-44d6-a138-6444dbd02a87
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: SPAWN_EGG
+          id: villager
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TOTEM
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+'2':
+  uniqueId: 45b4e9aa-c0ac-4688-9db1-2e1ae44f2039
+  name: Ores Trader 1
+  world: ZeSpawn
+  x: -1535
+  y: 108
+  z: 709
+  type: admin
+  object: villager
+  uuid: e6d5ebe4-2b1e-448e-8886-15de7b953c5c
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 5
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+'3':
+  uniqueId: a506ec1b-0b88-4b82-b66e-21f20e98ad3f
+  name: Ore Trader 2
+  world: ZeSpawn
+  x: -1535
+  y: 108
+  z: 711
+  type: admin
+  object: villager
+  uuid: 8653a6dc-4431-4e29-b09c-ae8366178b70
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 8
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 4
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 24

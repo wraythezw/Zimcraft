@@ -1,0 +1,76 @@
+[01:36:39] [Server thread/INFO]: [0;33;22m[MobHunting] Checking for new updates...[m
+[01:36:40] [Server thread/INFO]: [0;33;22m[MobHunting] No update found.[m
+[03:39:07] [Server thread/INFO]: [0;33;22m[MobHunting] Checking for new updates...[m
+[03:39:07] [Craft Scheduler Thread - 564/INFO]: [Vault] Checking for Updates ... 
+[03:39:08] [Server thread/INFO]: [0;33;22m[MobHunting] No update found.[m
+[03:39:08] [Craft Scheduler Thread - 564/INFO]: [Vault] No new version available
+[05:43:09] [Server thread/INFO]: [0;33;22m[MobHunting] Checking for new updates...[m
+[05:43:10] [Server thread/INFO]: [0;33;22m[MobHunting] No update found.[m
+[07:46:37] [Server thread/INFO]: [0;33;22m[MobHunting] Checking for new updates...[m
+[07:46:38] [Server thread/INFO]: [0;33;22m[MobHunting] No update found.[m
+[08:15:39] [Server thread/INFO]: Stopping the server
+[08:15:39] [Server thread/INFO]: Stopping server
+[08:15:39] [Server thread/INFO]: [Dynmap-GriefPrevention] Disabling Dynmap-GriefPrevention v0.80
+[08:15:39] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.6
+[08:15:39] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[08:15:39] [Server thread/INFO]: [AdvancedAchievements] Disabling AdvancedAchievements v4.1.5
+[08:15:40] [Server thread/INFO]: [AdvancedAchievements] Remaining requests sent to database, plugin disabled.
+[08:15:40] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.2-b1542
+[08:15:41] [Server thread/INFO]: [AuthMe] Waiting for 0 tasks to finish
+[08:15:41] [Server thread/INFO]: [AuthMe] AuthMe 5.2-b1542 disabled!
+[08:15:41] [Server thread/INFO]: [MobHunting] Disabling MobHunting v4.4.7
+[08:15:41] [Server thread/INFO]: [MobHunting] Closing database connection.
+[08:15:42] [Server thread/INFO]: [Dynmap-Essentials] Disabling Dynmap-Essentials v0.91-SNAPSHOT
+[08:15:42] [Server thread/INFO]: [Denizen] Disabling Denizen v1.0.1-SNAPSHOT (build 1634)
+[08:15:42] [Server thread/INFO]: [Denizen]  v1.0.1-SNAPSHOT (build 1634) disabled.
+[08:15:43] [Server thread/INFO]: [PetMaster] Disabling PetMaster v1.4
+[08:15:43] [Server thread/INFO]: [PetMaster] PetMaster has been disabled.
+[08:15:43] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.0.1-b468
+[08:15:43] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.0.1-b468
+[08:15:43] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.0.1-b468
+[08:15:43] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v2.5.11
+[08:15:43] [Server thread/INFO]: [MythicMobs] Disabling Mythic Mobs...
+[08:15:43] [Server thread/INFO]: [MythicMobs] All active settings have been saved.
+[08:15:43] [Server thread/INFO]: [MythicMobs] v2.5.11 has been Disabled!
+[08:15:44] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.81
+[08:15:44] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.21-SNAPSHOT (build 1471)
+[08:15:44] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v3.7.4
+[08:15:44] [Server thread/INFO]: [Dynmap-WorldGuard] Disabling Dynmap-WorldGuard v0.90
+[08:15:45] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.2.4
+[08:15:45] [Server thread/INFO]: [Essentials] Disabling Essentials v2.0.1-b468
+[08:15:45] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[08:15:45] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[08:15:45] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5.0-SNAPSHOT-b748
+[08:15:45] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v2.4-b530
+[08:15:45] [Server thread/INFO]: [MultiVerse-NetherPortals] - Disabled
+[08:15:45] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.07-SNAPSHOT
+[08:15:46] [Server thread/INFO]: [LagMonitor] Disabling LagMonitor v1.11.10
+[08:15:46] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[08:15:47] [Server thread/INFO]: [ChopTree3] Disabling ChopTree3 v4.0.0
+[08:15:47] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[08:15:47] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[08:15:47] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5.0-SNAPSHOT-b725
+[08:15:47] [Server thread/INFO]: [Votifier] Disabling Votifier v2.3.3
+[08:15:47] [Server thread/INFO]: [Votifier] Votifier disabled.
+[08:15:47] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v1.10.8
+[08:15:47] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[08:15:47] [Server thread/INFO]: [BetterBeds] Disabling BetterBeds v0.6.1-SNAPSHOT (build #4)
+[08:15:47] [Server thread/INFO]: [Skript] Disabling Skript v2.2-dev24
+[08:15:47] [Server thread/INFO]: [HealthBar] Disabling HealthBar v1.8.3
+[08:15:47] [Server thread/INFO]: HealthBar disabled, all the health bars have been removed.
+[08:15:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.5;4651611
+[08:15:47] [Server thread/INFO]: [dynmap] Disabling dynmap v2.4-1148
+[08:15:47] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[08:15:47] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[08:15:48] [Server thread/INFO]: [dynmap] Saved 13 pending tile renders in world 'world'
+[08:15:53] [Server thread/INFO]: [dynmap] Disabled
+[08:15:54] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.14.2
+[08:15:54] [Server thread/INFO]: Saving players
+[08:15:54] [Server thread/INFO]: Saving worlds
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'ZeSpawn'/Overworld
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'ZeSpawn_nether'/Nether
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'ZeSpawn_the_end'/The End
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'Bregentved'/Overworld
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[08:15:54] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[08:15:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether

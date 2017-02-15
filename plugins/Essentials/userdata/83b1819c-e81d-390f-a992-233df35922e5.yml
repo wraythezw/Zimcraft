@@ -1,0 +1,22 @@
+lastAccountName: kundai
+timestamps:
+  login: 1487090098501
+  logout: 1487090255831
+ipAddress: 197.221.232.71
+lastlocation:
+  world: world
+  x: 213.5
+  y: 64.0
+  z: 254.5
+  yaw: 0.0
+  pitch: 0.0
+geolocation: Zimbabwe
+logoutlocation:
+  world: world
+  x: 468.4726918531586
+  y: 95.0
+  z: 303.07890394523787
+  yaw: 295.351
+  pitch: 45.90008
+money: '540.0'
+afk: false
